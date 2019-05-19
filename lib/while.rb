@@ -1,7 +1,8 @@
-def using_while
-  puts 
+def using_while = 10
+  puts 'Windgardium Leviosa'
 	
-  #your code here
-end
+using_until = 10
+puts "
+end"
 
 
